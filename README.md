@@ -1,5 +1,4 @@
 # Forecasting_crude_oil_price
-# Stock Price Prediction App
 
 This Streamlit application predicts stock prices using a Long Short-Term Memory (LSTM) neural network. Users can upload a CSV file containing historical stock data, train the model with customizable parameters, and generate future price predictions.
 
